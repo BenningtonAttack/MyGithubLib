@@ -1,1 +1,2 @@
 Hello, this is a sample file. 
+I give a change to file.txt.
